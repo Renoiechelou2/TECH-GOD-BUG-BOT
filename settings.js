@@ -10,19 +10,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
+global.ownernomer = "22799229598"
+global.ownername = "🥗🥗🥗🍘🍜🧊"
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
 
-global.ownernumber = '917466008456'  //creator number
+global.ownernumber = '22799229598'  //creator number
 global.ownername = '🐛Tech god' //owner name
 global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.author = 'Tech-God\n\nContact: +22799229598'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -32,7 +32,7 @@ global.wm = "Youtube Tech God."
 global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = [!]
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
@@ -58,15 +58,15 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 //reply messages
 global.mess = {
-    done: 'Done !',
-    prem: 'This feature can be used by Tech god or premium user only',
-    admin: 'This feature can be used by Tech god or admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by Tech god or owner only',
-    group: 'This feature is only for groups',
-    private: 'This feature is only for private chats',
-    wait: 'In process... ',    
-    error: 'Error!',
+    done: 'fais tkt pas',
+    prem: 'peti chyeng tes pas premuim cest meme pas ton bot tout laisse',
+    admin: 'bro laisse tomber tes pas admi',
+    botAdmin: 'tu peux faire se que tu veux',
+    owner: 'bro cest pas ton bot ',
+    group: 'tes con ou quoi tu sais pas lire ',
+    private: 'c'est privé c'est pas le tien,
+    wait: 'patiente sa charge si tu peux pas casse toi ',    
+    error: 'sa marche pas cassé toi',
 }
 
 global.thumb = fs.readFileSync('./XeonMedia/thumb.jpg')
