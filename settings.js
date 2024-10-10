@@ -11,7 +11,7 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "22799229598"
-global.ownername = "🥗🥗🥗🍘🍜🧊"
+global.ownername = "🥗🥗🥗🍘🍜🧊🎭❄💫🥱"
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
